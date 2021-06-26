@@ -1,11 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-06-19 14:28:17
-<<<<<<< HEAD
- * @LastEditTime: 2021-06-27 01:18:46
-=======
- * @LastEditTime: 2021-06-27 01:07:06
->>>>>>> dev
+ * @LastEditTime: 2021-06-27 01:29:19
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /express-api/router/README.md
